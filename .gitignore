@@ -1,0 +1,25 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Binary files or directories
+background
+bin
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# IDE Preferences
+.idea/
+.vscode/
+
+# System files or credential files
+bucket.json
+.DS_Store
+dump.rdb
