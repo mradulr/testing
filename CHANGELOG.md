@@ -1,0 +1,15 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## 1.1.0 (2021-06-22)
+
+
+### Features
+
+* go mod file ([9578737](https://github.com/mradulr/testing/commit/9578737ef1d5a8fea77336507f188d6e103d573e))
+
+
+### Bug Fixes
+
+* go.mod ([6f9a877](https://github.com/mradulr/testing/commit/6f9a8771828c6471945e582b8934b9572f5fa217))
