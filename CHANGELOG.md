@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.27](https://github.com/mradulr/testing/compare/v1.2.26...v1.2.27) (2021-06-23)
+
 ### [1.2.26](https://github.com/mradulr/testing/compare/v1.2.25...v1.2.26) (2021-06-22)
 
 ### [1.2.25](https://github.com/mradulr/testing/compare/v1.2.24...v1.2.25) (2021-06-22)
