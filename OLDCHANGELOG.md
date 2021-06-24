@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/mradulr/testing/compare/v1.3.4...v1.4.0) (2021-06-24)
+
+
+### Features
+
+* add test files ([e12459f](https://github.com/mradulr/testing/commit/e12459fb42032ea0ebbe6a17e1ed7615e4dc96ca))
+
 ### [1.3.4](https://github.com/mradulr/testing/compare/v1.3.3...v1.3.4) (2021-06-24)
 
 ### [1.3.3](https://github.com/mradulr/testing/compare/v1.3.2...v1.3.3) (2021-06-24)
