@@ -1,1 +1,1 @@
-### [1.5.3](https://github.com/mradulr/testing/compare/v1.5.2...v1.5.3) (2021-06-28)
+### [1.5.5](https://github.com/mradulr/testing/compare/v1.5.4...v1.5.5) (2021-06-28)
