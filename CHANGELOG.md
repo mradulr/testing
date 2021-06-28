@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<<<<<<< HEAD
+=======
+### [1.5.5](https://github.com/mradulr/testing/compare/v1.5.4...v1.5.5) (2021-06-28)
+
+### [1.5.4](https://github.com/mradulr/testing/compare/v1.5.3...v1.5.4) (2021-06-28)
+
+### [1.5.3](https://github.com/mradulr/testing/compare/v1.5.2...v1.5.3) (2021-06-28)
+
+### [1.5.2](https://github.com/mradulr/testing/compare/v1.5.1...v1.5.2) (2021-06-25)
+
+### [1.5.1](https://github.com/mradulr/testing/compare/v1.5.0...v1.5.1) (2021-06-24)
+
+>>>>>>> da53b8a0c0b5db736f6c9166e6c2979ead527896
 ## [1.5.0](https://github.com/mradulr/testing/compare/v1.4.0...v1.5.0) (2021-06-24)
 
 
